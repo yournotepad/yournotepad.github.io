@@ -45,6 +45,11 @@ This project is dedicated to the public domain under the
 For details, see:  
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
+## Author
+
+Created by **Derrick Richard**  
+[View Profile](https://github.com/DerrickRichard)
+
 ---
 
 Enjoy a simple and secure personal notepad experience!
